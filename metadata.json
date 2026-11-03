@@ -1,0 +1,6 @@
+{
+  "name": "맥섬석GM(주) | Growfeed",
+  "description": "저메탄·고신뢰 축산바이오 전문기업 맥섬석GM(그로피드) 공식 웹사이트",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
